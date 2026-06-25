@@ -1,168 +1,139 @@
-<h1 align="center">Hi 👋, I'm Pranjal Thakur</h1>
+<div align="center">
 
-<h3 align="center">🚀 AI & CSE Student | Frontend Developer | Python & Machine Learning Enthusiast</h3>
+# Hi 👋 I'm Pranjal Thakur
+
+### 💻 AI Engineer in Progress | Frontend Developer | Python Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Frontend+Developer;Python+Developer;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Pranjal Thakur
+
+Education:
+   🎓 B.E CSE (AI)
+   Chitkara University
+
+Currently Learning:
+   • Machine Learning
+   • Full Stack Development
+   • Data Structures & Algorithms
+
+Interests:
+   • Artificial Intelligence
+   • Web Development
+   • Python
+   • Open Source
+
+Email:
+   pranjalthaku07@gmail.com
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Python+Programmer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
 
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 3rd Year CSE (AI) Student at **Chitkara University**
-- 🌱 Currently learning **Machine Learning, AI & Full Stack Development**
-- 💻 Passionate about **Frontend Development**
-- 🤖 Exploring **Python, Django, Flask, TensorFlow & PyTorch**
-- 📫 Reach me at **pranjalthaku07@gmail.com**
-- ⚡ Fun Fact: **I love building real-world projects and learning new technologies.**
-
----
-
-<h3 align="left">🌐 Connect with Me</h3>
-
-<p align="left">
-<a href="https://instagram.com/pranjal__thakur07" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35"/>
+<a href="https://instagram.com/pranjal__thakur07">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:pranjalthaku07@gmail.com">
-<img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="35" width="35"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-<h3 align="left">💻 Languages and Tools</h3>
-
-<p align="left">
-
-<a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-
-<a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a>
-
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
-
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
-
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
-
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-
-<a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-
-<a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,nodejs,django,flask,mysql,postgres,git,github,postman,tensorflow,pytorch,sklearn,vscode,arduino&perline=10"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🧠 Currently Working On
 
-<p align="center">
+🟢 AI & Machine Learning
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+🟢 Django REST APIs
 
-</p>
+🟢 Frontend Development
 
----
+🟢 Data Structures & Algorithms
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
+🟢 Python Automation
 
 ---
 
-# 🏆 GitHub Trophies
+# 📂 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-# 📈 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
+| Project | Description |
+|----------|-------------|
+| 🚖 Ride Fare Surge Prediction | Machine Learning Regression Project |
+| 📦 Stockaly | Inventory Management System |
+| 🔐 Django OTP Authentication | Secure Email Verification API |
+| 🌐 Portfolio Website | Personal Developer Portfolio |
+| 🤖 AI Mini Projects | Python + Machine Learning |
 
 ---
 
-# 👀 Profile Views
+# 🏅 Certifications
 
-<p align="center">
+✅ Microsoft Azure Fundamentals (AZ-900)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+✅ Python Programming
 
-</p>
+✅ Machine Learning
 
----
-
-# 🚀 Featured Projects
-
-- 🚖 **Ride Fare Surge Prediction**
-- 📦 **Stockaly Inventory Management System**
-- 📧 **Django Email OTP Authentication**
-- 🤖 **Machine Learning Projects**
-- 🌐 **Frontend Web Development Projects**
+✅ Web Development
 
 ---
 
-# 💬 Quote
+# 🎯 2026 Goals
 
-<p align="center">
-
-### *"Code. Learn. Build. Repeat. 🚀"*
-
-</p>
+- 🚀 Become Full Stack AI Developer
+- 🌟 Contribute to Open Source
+- 📚 Master DSA
+- 💼 Land a Software Internship
+- 🧠 Build Real-World AI Projects
 
 ---
 
-<p align="center">
+# ☕ Fun Facts
 
-### ⭐ If you like my work, don't forget to star my repositories!
+```text
+💻 Favourite Language : Python 🐍
 
-</p>
+🎵 Coding + Music = ❤️
+
+🌙 Night Owl Developer
+
+🚀 Love Building Cool Projects
+```
+
+---
+
+# 💬 Favourite Quote
+
+> **"Dream big. Start small. Build consistently."**
+
+---
+
+<div align="center">
+
+### Thanks for visiting ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+</div>
