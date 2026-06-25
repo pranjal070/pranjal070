@@ -4,9 +4,11 @@
 
 ### 🚀 AI & CSE Student | Frontend Developer | Python & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+Student+at+Chitkara+University;Always+Learning+New+Things+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=pranjal070&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -18,8 +20,8 @@
 Name: Pranjal Thakur
 
 Education:
-  🎓 B.E. Computer Science (AI)
-  Chitkara University
+  🎓 B.E. Computer Science (Artificial Intelligence)
+  📍 Chitkara University
 
 Current Focus:
   - Machine Learning
@@ -29,6 +31,7 @@ Current Focus:
 Interests:
   - Artificial Intelligence
   - Frontend Development
+  - Backend Development
   - Python Programming
   - Open Source
 
@@ -40,7 +43,7 @@ Email:
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://instagram.com/pranjal__thakur07">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -56,7 +59,7 @@ Email:
 
 # 💻 Tech Stack
 
-## 🎨 Frontend
+## 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
@@ -64,7 +67,7 @@ Email:
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
@@ -94,9 +97,9 @@ Email:
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
 
 </p>
 
@@ -105,7 +108,9 @@ Email:
 ## 🛠️ Tools & Platforms
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
+
 </p>
 
 ---
@@ -114,7 +119,7 @@ Email:
 
 <p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="48"/>
 
 <img src="https://skillicons.dev/icons?i=figma" />
 
@@ -124,41 +129,49 @@ Email:
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack |
-|---------|------------|
-| 🚖 Ride Fare Surge Prediction | Python, Scikit-Learn, Pandas |
-| 📦 Stockaly Inventory System | Flask, Django REST API |
-| 🔐 Django Email OTP Authentication | Django, SMTP |
-| 🌐 Personal Portfolio | HTML, CSS, JavaScript |
-| 🤖 AI & Machine Learning Projects | Python, TensorFlow |
+| 🚀 Project | 💻 Tech Stack |
+|------------|---------------|
+| 🚖 Ride Fare Surge Prediction | Python • Pandas • Scikit-Learn |
+| 📦 Stockaly Inventory Management | Flask • Django REST API |
+| 🔐 Django Email OTP Authentication | Django • SMTP |
+| 🌐 Personal Portfolio Website | HTML • CSS • JavaScript |
+| 🤖 Machine Learning Projects | Python • TensorFlow |
 
 ---
 
 # 📜 Certifications
 
-🏅 Microsoft Azure Fundamentals (AZ-900)
-
-🏅 Python Programming
-
-🏅 Machine Learning
-
-🏅 Web Development
+- 🏅 Microsoft Azure Fundamentals (AZ-900)
+- 🏅 Python Programming
+- 🏅 Machine Learning
+- 🏅 Web Development
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
-- Advanced Machine Learning
-- React.js
-- Next.js
-- System Design
-- DSA for Placements
+- ⚛️ React.js
+- 🧠 Advanced Machine Learning
+- 🏗️ System Design
+- 📖 Data Structures & Algorithms
 
+---
+
+# 🏆 Achievements
+
+- 🎓 CSE (AI) Student
+- 💻 Developed Full Stack Applications
+- 🤖 Built Machine Learning Models
+- 🌐 Passionate Frontend Developer
+
+---
+
+# ☕ Fun Facts
 
 ```text
 💻 Favourite Language : Python 🐍
 
-🎧 Coding with Music 🎶
+🎵 Coding + Music = ❤️
 
 🌙 Night Owl Developer
 
@@ -167,9 +180,9 @@ Email:
 
 ---
 
-# 💡 Developer Quote
+# 💬 Favourite Quote
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
 
