@@ -1,37 +1,39 @@
 <div align="center">
 
-# Hi 👋 I'm Pranjal Thakur
+# Hi 👋, I'm Pranjal Thakur
 
-### 💻 AI Engineer in Progress | Frontend Developer | Python Enthusiast
+### 🚀 AI & CSE Student | Frontend Developer | Python & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Frontend+Developer;Python+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🙋‍♂️ About Me
 
 ```yaml
 Name: Pranjal Thakur
 
 Education:
-   🎓 B.E CSE (AI)
-   Chitkara University
+  🎓 B.E. Computer Science (AI)
+  Chitkara University
 
-Currently Learning:
-   • Machine Learning
-   • Full Stack Development
-   • Data Structures & Algorithms
+Current Focus:
+  - Machine Learning
+  - Full Stack Development
+  - Data Structures & Algorithms
 
 Interests:
-   • Artificial Intelligence
-   • Web Development
-   • Python
-   • Open Source
+  - Artificial Intelligence
+  - Frontend Development
+  - Python Programming
+  - Open Source
 
 Email:
-   pranjalthaku07@gmail.com
+  pranjalthaku07@gmail.com
 ```
 
 ---
@@ -54,85 +56,126 @@ Email:
 
 # 💻 Tech Stack
 
-<p align="center">
+## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,nodejs,django,flask,mysql,postgres,git,github,postman,tensorflow,pytorch,sklearn,vscode,arduino&perline=10"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
 
 </p>
 
 ---
 
-# 🧠 Currently Working On
+## 🛠️ Tools & Platforms
 
-🟢 AI & Machine Learning
-
-🟢 Django REST APIs
-
-🟢 Frontend Development
-
-🟢 Data Structures & Algorithms
-
-🟢 Python Automation
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
+</p>
 
 ---
 
-# 📂 Featured Projects
+## 🎨 Design Tools
 
-| Project | Description |
-|----------|-------------|
-| 🚖 Ride Fare Surge Prediction | Machine Learning Regression Project |
-| 📦 Stockaly | Inventory Management System |
-| 🔐 Django OTP Authentication | Secure Email Verification API |
-| 🌐 Portfolio Website | Personal Developer Portfolio |
-| 🤖 AI Mini Projects | Python + Machine Learning |
+<p>
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
 
-# 🏅 Certifications
+<img src="https://skillicons.dev/icons?i=figma" />
 
-✅ Microsoft Azure Fundamentals (AZ-900)
-
-✅ Python Programming
-
-✅ Machine Learning
-
-✅ Web Development
+</p>
 
 ---
 
-# 🎯 2026 Goals
+# 🚀 Featured Projects
 
-- 🚀 Become Full Stack AI Developer
-- 🌟 Contribute to Open Source
-- 📚 Master DSA
-- 💼 Land a Software Internship
-- 🧠 Build Real-World AI Projects
+| Project | Tech Stack |
+|---------|------------|
+| 🚖 Ride Fare Surge Prediction | Python, Scikit-Learn, Pandas |
+| 📦 Stockaly Inventory System | Flask, Django REST API |
+| 🔐 Django Email OTP Authentication | Django, SMTP |
+| 🌐 Personal Portfolio | HTML, CSS, JavaScript |
+| 🤖 AI & Machine Learning Projects | Python, TensorFlow |
 
 ---
 
-# ☕ Fun Facts
+# 📜 Certifications
+
+🏅 Microsoft Azure Fundamentals (AZ-900)
+
+🏅 Python Programming
+
+🏅 Machine Learning
+
+🏅 Web Development
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- React.js
+- Next.js
+- System Design
+- DSA for Placements
+
 
 ```text
 💻 Favourite Language : Python 🐍
 
-🎵 Coding + Music = ❤️
+🎧 Coding with Music 🎶
 
 🌙 Night Owl Developer
 
-🚀 Love Building Cool Projects
+🚀 Learning Never Stops
 ```
 
 ---
 
-# 💬 Favourite Quote
+# 💡 Developer Quote
 
-> **"Dream big. Start small. Build consistently."**
+> **"First, solve the problem. Then, write the code."** – John Johnson
 
 ---
 
 <div align="center">
 
-### Thanks for visiting ❤️
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
